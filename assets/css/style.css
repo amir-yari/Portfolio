@@ -1201,6 +1201,7 @@ main {
 
 .blog-buttons {
   margin-top: 1rem;
+  padding-bottom: 0;
   display: flex;
   justify-content: center;
 }
